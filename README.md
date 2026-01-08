@@ -1,6 +1,6 @@
-# [Dana Polanco Hita]
+# Dana Polanco Hita
 
-### Estudiante de Economía (4º Semestre) en la [Universidad de Ibagué], enfocada en construir una base sólida en análisis de datos y econometría aplicada.
+### Soy estudiante de Economía (4º Semestre) en la Universidad de Ibagué, enfocada en construir una base sólida en análisis de datos y econometría aplicada.
 
 Hola 👋, estoy en el inicio de mi viaje en el mundo de la economía y los datos.
 
@@ -9,6 +9,8 @@ Desde mis primeras clases, he sentido una gran curiosidad por entender cómo se 
 Por eso, he tomado la iniciativa de aprender por mi cuenta las herramientas que me permitirán hacer mis propios análisis. Mi objetivo a mediano plazo es poder aplicar Python y SQL para explorar preguntas que surgen en mis cursos y, eventualmente, poder contribuir con análisis originales en un semillero de investigación.
 
 Este perfil es mi bitácora de aprendizaje, donde documento mi progreso y los proyectos que construyo mientras adquiero estas nuevas habilidades.
+
+---
 
 ### 🛠️ Mi Foco de Aprendizaje Técnico
 
@@ -20,6 +22,8 @@ Actualmente estoy desarrollando mis habilidades en las siguientes herramientas:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+---
 
 ### 🔬 Mi Laboratorio de Análisis (Proyectos en Progreso)
 
@@ -33,9 +37,9 @@ Aquí documento los ejercicios y pequeños proyectos que desarrollo para aplicar
   - **Meta:** Replicar el análisis de regresión del Taller 3 de mi clase de Econometría, pero utilizando `Python` y `statsmodels` en lugar del software tradicional.
   - **Propósito:** Comparar los resultados y profundizar mi entendimiento del modelo.
 
-  
+---
 
-### 📫 Contacto
+### 📫 Cómo Conectarte conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/danapolanco)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dana.polanco@estudiantesunibague.edu.co)
+[![LinkedIn | UP](https://img.shields.io/badge/LinkedIn%20%7C%20UP-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danapolanco/)
+[![Email | UP](https://img.shields.io/badge/Email%20%7C%20UP-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dana.polanco@estudiantesunibague.edu.co)
